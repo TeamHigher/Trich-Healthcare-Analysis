@@ -80,7 +80,7 @@ across the year.
 ---
 
 ### Page 3 — Medical Operations
-![Medical Operations](images/Mpedical-Operations.png)
+![Medical Operations](images/Medical-Operations.png)
 
 The third page covers operational metrics. Neurology leads in both 
 transaction volume (3.1K) and emergency cases (610), followed closely 
