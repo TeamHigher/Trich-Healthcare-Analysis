@@ -50,7 +50,7 @@ through city, department, insurance type and monthly filters.
 ## Dashboard Walkthrough
 
 ### Page 1 — Overview
-![Overview](images/Trich-Overview.png)
+![Overview](images/trich-overview.png)
 
 The first page provides a high-level summary of organisational performance.
 Key metrics include £37.97M total revenue, 1,000 total patients, £2.53K 
